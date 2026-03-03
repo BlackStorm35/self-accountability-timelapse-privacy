@@ -4,18 +4,15 @@ Last updated: [2026-03-03]
 Summary
 Self Accountability Timelapse helps you create an MP4 timelapse of your own study/work sessions. It only captures screenshots when you start a session, and only on sites you explicitly allowlist.
 
-Data the extension processes
+Data the extension processes:
 	1.	Website content (screenshots / “shots”)
-
 	•	When you start a session, the extension may capture periodic screenshots of the active tab on allowlisted sites.
 	•	These screenshots are uploaded to cloud storage to generate your MP4 timelapse.
 
 	2.	Extension identifiers & diagnostics
-
 	•	The extension generates/uses an Install ID and may send basic app diagnostics needed to operate the service (for example: extension version, selected plan/interval, timezone, session IDs, and quota counters).
 
 	3.	Local-only data (stored in your browser)
-
 	•	Settings like your allowlisted domains, plan selection, UI preferences, and session summaries are stored locally using browser storage to keep the extension working consistently.
 
 How data is used (single purpose)
