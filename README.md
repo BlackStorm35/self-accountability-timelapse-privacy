@@ -46,7 +46,7 @@ Security
 Reasonable technical measures are used to protect data in transit and at rest. (No system is perfect)
 
 Contact
-For support requests: https://forms.gle/kX8WY3aszJNXq7xJA
+For support requests: https://forms.gle/kX8WY3aszJNXq7xJA, or kingprogramming150@gmail.com
 
 Limited Use disclosure (Chrome Web Store)
 Self Accountability Timelapse’s use of information received from Chrome APIs will comply with the Chrome Web Store User Data Policy, including the Limited Use requirements.  ￼
